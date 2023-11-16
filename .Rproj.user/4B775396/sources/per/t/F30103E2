@@ -1,0 +1,26 @@
+{
+    "id": "F30103E2",
+    "path": "~/Google Drive/code/R/wikipediacorpus/R/plot_heading_frequency.R",
+    "project_path": "R/plot_heading_frequency.R",
+    "type": "r_source",
+    "hash": "4185454478",
+    "contents": "",
+    "dirty": false,
+    "created": 1699383801530.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,2",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1675606269,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675606269,
+    "read_only": false,
+    "read_only_alternatives": []
+}
